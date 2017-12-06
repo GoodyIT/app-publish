@@ -282,7 +282,7 @@
 				DEVELOPMENT_TEAM = 6ATV26A86Y;
 				INFOPLIST_FILE = denningappstore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = IT.denningappstore;
+				PRODUCT_BUNDLE_IDENTIFIER = IT.Denning;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -296,7 +296,7 @@
 				DEVELOPMENT_TEAM = 6ATV26A86Y;
 				INFOPLIST_FILE = denningappstore/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = IT.denningappstore;
+				PRODUCT_BUNDLE_IDENTIFIER = IT.Denning;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
